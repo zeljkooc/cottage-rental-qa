@@ -1,7 +1,5 @@
 # Cottage Rental Web App: Test Plan & Test Automation
 
-Software testing project for the course **Software Testing (13S113TS)**, Homework 1, School of Electrical Engineering, University of Belgrade.
-
 The project contains a complete **test plan**, **test execution report** and **defect report** for a cottage rental web application, together with **automated UI tests** written with Katalon Recorder and Selenium (Java + TestNG).
 
 ## About the system under test
